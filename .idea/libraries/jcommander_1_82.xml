@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="jcommander-1.82">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../jars/testng/jar_files/jcommander-1.82.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../jars/testng/jar_files/slf4j-api-1.7.36.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../jars/testng/jar_files/testng-7.8.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
