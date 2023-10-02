@@ -55,8 +55,8 @@ public class TC001_ValidUserNPass {
         driver.quit();
     }
 
-    // This method provide valid credentials to the login method
     @DataProvider (name = "login_credentials")
+    // This method provide valid credentials to the login method
     public Object [][] dp(){
         Object[][] mdata = new Object[1][2];
         mdata[0][0] = "standard_user";
